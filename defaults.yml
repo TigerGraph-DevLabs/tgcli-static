@@ -1,0 +1,13 @@
+machines:
+    defaultConf:
+        restPort: '9000'
+        gsPort: '14240'
+        password: tigergraph
+        user: tigergraph
+        host: http://localhost
+
+tgcloud:
+    user: mail@domain.com
+    password: password
+default: defaultConf
+
